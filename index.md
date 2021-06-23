@@ -4,8 +4,8 @@ layout: index
 header_carousel:
   - image: /assets/img/top-1.jpg
     caption: Cape winelands trailer
-  - image: /assets/img/top-2.jpg
-    caption: Cape winelands trailer
+  - image: /assets/img/img_5466.jpg
+    caption: Some space
 sections:
   - title: Feature walls
     items:
