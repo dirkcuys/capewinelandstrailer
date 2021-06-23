@@ -20,6 +20,10 @@ sections:
           Product: Marmoran 
           Applicators: Ark Industries
   - title: Painting
+    items:
+      - image: /assets/img/img_5468.jpg
+        caption: Some paint
+        link: https://google.com
   - title: Counter & cupboards
   - title: Lighting
   - title: Tiles
