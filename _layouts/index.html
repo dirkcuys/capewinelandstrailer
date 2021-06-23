@@ -1,0 +1,83 @@
+---
+layout: base
+---
+
+<div class="banner">
+  <div class="container">
+    <p class="text-light fs-3 fw-bold">{{site.title}}</p>
+    <div id="carouselHeader" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-indicators">
+        {% for item in page.header_carousel %}
+        <button type="button" data-bs-target="#carouselHeader" data-bs-slide-to="{{forloop.index}}" class="active" {% if forloop.index == 1%}aria-current="true"{% endif %} aria-label="Slide {{forloop.index}}"></button>
+        {% endfor %}
+      </div>
+      <div class="carousel-inner">
+        {% for item in page.header_carousel %}
+        <div class="carousel-item {% if forloop.index == 1 %}active{% endif %}">
+          <img src="{{item.image}}" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>{{item.caption}}</h5>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselHeader" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselHeader" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  {% for section in page.sections %}
+  <div class="sections">
+    <h2>{{section.title}}</h2>
+
+    <div class="row section">
+      {% for item in section.items %}
+      <div class="ccard col-md-4">
+        <div class="ccard-img" style="background: no-repeat center/cover url('{{item.image}}')">
+        </div>
+        <div class="ccard-body">
+          <p class="ccard-text">{{item.caption|markdownify}}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    <!--
+      <div id="carousel-section-{{forloop.index}}" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-indicators">
+      {% for item in section.items %}
+      <button type="button" data-bs-target="#carouselHeader" data-bs-slide-to="{{forloop.index}}" class="active" {% if forloop.index == 1%}aria-current="true"{% endif %} aria-label="Slide {{forloop.index}}"></button>
+      {% endfor %}
+      </div>
+      <div class="carousel-inner">
+      {% for item in section.items %}
+      <div class="carousel-item {% if forloop.index == 1 %}active{% endif %}">
+      <img src="{{item.image}}" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+      <h5>{{item.caption|markdownify}}</h5>
+      </div>
+      </div>
+      {% endfor %}
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carousel-section-{{forloop.index}}" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carousel-section-{{forloop.index}}" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+      </button>
+      </div>
+    -->
+
+  </div>
+  {% endfor %}
+</div>
