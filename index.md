@@ -19,12 +19,30 @@ sections:
           TEXTURED FEATURE WALLS:
           Product: Marmoran 
           Applicators: Ark Industries
+      - image: /assets/img/walls-2.jpg
+        caption: |
+          TEXTURED FEATURE WALLS:
+          Product: Marmoran 
+          Applicators: Ark Industries
   - title: Painting
     items:
       - image: /assets/img/img_5468.jpg
         caption: Some paint
         link: https://google.com
   - title: Counter & cupboards
+    items:
+      - image: /assets/img/img_5468.jpg
+        caption: Some paint
+        link: https://google.com
+      - image: /assets/img/img_5468.jpg
+        caption: Some paint
+        link: https://google.com
+      - image: /assets/img/img_5468.jpg
+        caption: Some paint
+        link: https://google.com
+      - image: /assets/img/img_5468.jpg
+        caption: Some paint
+        link: https://google.com
   - title: Lighting
   - title: Tiles
   - title: Fixtures

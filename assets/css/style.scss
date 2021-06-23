@@ -4,6 +4,7 @@
 @import "bootstrap/scss/functions";
 
 // 2. Include any default variable overrides here
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 // 3. Include remainder of required Bootstrap stylesheets
 @import "bootstrap/scss/variables";
@@ -19,10 +20,10 @@
 @import "bootstrap/scss/grid";
 //@import "bootstrap/scss/tables";
 //@import "bootstrap/scss/forms";
-//@import "bootstrap/scss/buttons";
+@import "bootstrap/scss/buttons";
 @import "bootstrap/scss/transitions";
 //@import "bootstrap/scss/dropdown";
-//@import "bootstrap/scss/button-group";
+@import "bootstrap/scss/button-group";
 @import "bootstrap/scss/nav";
 @import "bootstrap/scss/navbar";
 @import "bootstrap/scss/card";
@@ -54,7 +55,7 @@
 .banner {
   background-color: black;
   position: relative;
-  margin-bottom: 5em;
+  margin-bottom: 2em;
   .container {
     position: relative;
     top: 2em;
@@ -70,8 +71,12 @@
 .section {
   .ccard {
     .ccard-img {
-      height: 30vh;
+      //height: 30vh;
       overflow: hidden;
     }
   }
+}
+
+.title {
+  font-family: 'Pacifico', cursive;
 }

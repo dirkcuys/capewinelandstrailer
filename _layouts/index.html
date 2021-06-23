@@ -4,7 +4,7 @@ layout: base
 
 <div class="banner">
   <div class="container">
-    <p class="text-light fs-3 fw-bold">{{site.title}}</p>
+    <p class="title text-light fs-3 fw-bold">{{site.title}}</p>
     <div id="carouselHeader" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-indicators">
         {% for item in page.header_carousel %}
@@ -35,16 +35,17 @@ layout: base
 
 <div class="container">
   {% for section in page.sections %}
-  <div class="sections">
+  <div class="sections pt-5">
     <h2>{{section.title}}</h2>
 
     <div class="row section">
       {% for item in section.items %}
       <div class="ccard col-md-4">
-        <div class="ccard-img" style="background: no-repeat center/cover url('{{item.image}}')">
+        <div class="ccard-img ratio ratio-1x1" style="background: no-repeat center/cover url('{{item.image}}')">
         </div>
         <div class="ccard-body">
-          <p class="ccard-text">{{item.caption|markdownify|newline_to_br}}</p>
+          <p class="ccard-text">{{item.caption|newline_to_br|markdownify}}</p>
+          <p class="text-center"><a class="btn btn-light" href="{{item.link}}">Visit supplier</a></p>
         </div>
       </div>
       {% endfor %}
