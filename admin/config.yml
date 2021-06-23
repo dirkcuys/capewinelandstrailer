@@ -22,7 +22,9 @@ collections:
           name: 'sections'
           widget: list
           fields:
-            - { label: 'Secion title', name: 'title', widget: 'string' }
+            - label: 'Section title'
+              name: 'title'
+              widget: 'string'
             - label: 'Section items'
               name: 'items', 
               widget: 'list'
