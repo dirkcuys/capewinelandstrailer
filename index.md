@@ -30,11 +30,11 @@ sections:
         caption: |-
           **Wall behind Bed Finish: Marmoran 
           Applicators: Ark Industries**
-      - image: /assets/img/walls-2.jpg
+      - image: /assets/img/img_5490_crop.jpg
         caption: |-
           **Wall behind WC Finish: Marmoran 
           Applicators: Ark Industries**
-      - image: /assets/img/img_5450_crop2.jpg
+      - image: /assets/img/img_5450_crop3.jpg
   - title: Counter & cupboards
     items:
       - image: /assets/img/img_5450.jpg
@@ -54,6 +54,7 @@ sections:
       - image: /assets/img/img_5487_crop.jpg
       - image: /assets/img/img_5530.jpg
       - image: /assets/img/img_5482_crop.jpg
+      - image: /assets/img/img_5485_crop.jpg
   - title: Scatter cushions
     items:
       - image: /assets/img/scatter.jpg
