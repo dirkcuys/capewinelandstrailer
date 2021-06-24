@@ -46,6 +46,9 @@ sections:
         caption: Some paint
         link: https://google.com
   - title: Lighting
+    items:
+      - image: /assets/img/lamp.jpg
+      - image: /assets/img/img_5399.jpg
   - title: Tiles
   - title: Fixtures
   - title: Decor
@@ -71,4 +74,5 @@ sections:
       - image: /assets/img/img_5499.jpg
       - image: /assets/img/img_5399.jpg
       - image: /assets/img/img_5505.jpg
+      - image: /assets/img/plant.jpg
 ---
