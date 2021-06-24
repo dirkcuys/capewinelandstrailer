@@ -3,9 +3,12 @@ title: Cape winelands trailer
 layout: index
 header_carousel:
   - image: /assets/img/top-1.jpg
-    caption: Cape winelands traile
-  - image: /assets/img/img_5466.jpg
+    caption: Cape winelands trailer
+  - image: /assets/img/img_5450.jpg
     caption: Some space
+  - image: /assets/img/img_5466.jpg
+  - image: /assets/img/img_5390.jpg
+  - image: /assets/img/img_5444.jpg
 sections:
   - title: Feature walls
     items:
