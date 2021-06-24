@@ -72,7 +72,7 @@ sections:
   - title: Counter & cupboards
     items:
       - image: /assets/img/img_5450.jpg
-        caption: "**New cupboard doors & built-in wine rack by Simply do it**"
+        caption: "**Cupboard doors & wine rack by Simply do it**"
         link: http://www.simplydoit.co.za
   - title: Lighting
     items:
@@ -82,7 +82,7 @@ sections:
       - image: /assets/img/img_5399.jpg
         link: https://lighting.co.za
         caption: "**Bedside wall lamps by Lighting.co.za**"
-      - image: /assets/img/img_5392.jpg
+      - image: /assets/img/img_5392_crop.jpg
         link: https://newport.co.za
         caption: "**LED Striplights & ceiling lights by Newport Lighting Concepts &
           Design**"
@@ -101,24 +101,24 @@ sections:
       - image: /assets/img/img_5487_crop.jpg
         link: https://www.eightdegreessouth.com
         caption: "**Mirror by Eight Degrees South**"
-      - image: /assets/img/img_5530.jpg
-        link: https://www.argilebylean.com
-        caption: "**Ceramic decor by Argilé**"
-      - image: /assets/img/img_5482_crop.jpg
-        caption: "**Towel rail by Knus**"
-        link: https://www.knus.co
       - image: /assets/img/img_5470_crop.jpg
         caption: "**Rug by Knus**"
         link: https://www.knus.co
       - image: /assets/img/img_5485_crop.jpg
         link: https://www.knus.co
-        caption: "**Baskets by Knus**"
+        caption: "**Baskets and mat by Knus**"
       - image: /assets/img/img_5463.jpg
         caption: "**Tea Towels by Threads that bind us**"
         link: https://threadsthatbindus.co.za
+      - image: /assets/img/img_5482_crop.jpg
+        caption: "**Towel rail by Knus**"
+        link: https://www.knus.co
+      - image: /assets/img/img_5530.jpg
+        link: https://www.argilebylean.com
+        caption: "**Ceramic decor by Argilé**"
       - image: /assets/img/img_5459.jpg
         link: https://barrydaleweavers.co.za
-        caption: Throw by Barrydale Hand Weavers
+        caption: Throw & rug by Barrydale Hand Weavers
       - image: /assets/img/img_5514.jpg
         link: https://www.argilebylean.com
         caption: "**Ceramic decor by Argilé**"
@@ -128,18 +128,17 @@ sections:
       - image: /assets/img/img_5470_crop.jpg
         caption: "**Woven stool by Eight Degrees South**"
         link: https://www.eightdegreessouth.com
+      - image: /assets/img/img_5392_crop.jpg
+        caption: "**Baskets by Eight Degrees South**"
+        link: https://www.eightdegreessouth.com
   - title: Scatter cushions
     items:
       - image: /assets/img/img_5402.jpg
         caption: "**Threads that bind us**"
         link: https://threadsthatbindus.co.za
-      - image: /assets/img/img_5521.jpg
-        link: https://cottontree.co.za
-        caption: Cotton Tree
       - image: /assets/img/img_5465.jpg
-      - image: /assets/img/img_5509.jpg
-        link: https://cottontree.co.za
-        caption: "**Cotton Tree**"
+        link: https://www.kreatifhaus.co.za
+        caption: "**Kreatif Haus**"
       - image: /assets/img/img_5459_crop.jpg
         link: https://barrydaleweavers.co.za
         caption: "**Barrydale Hand Weavers**"
@@ -149,9 +148,17 @@ sections:
   - title: Art
     items:
       - image: /assets/img/img_5501.jpg
+        link: https://www.skaam.co.za
+        caption: "**Custom grape leaves artwork by Skaam**"
       - image: /assets/img/img_5499_crop.jpg
+        link: https://elsje.co.za
+        caption: "**Abstract Art Print by Elsje**"
       - image: /assets/img/art.jpg
+        link: https://www.blankinkdesign.com
+        caption: "**Architectural hand sketches by Blank Ink Design**"
       - image: /assets/img/img_5410_crop2.jpg
+        caption: "**Abstract Art Print by Elsje**"
+        link: https://elsje.co.za/product-category/art-prints/abstract-art/
   - title: Flowers and plants
     items:
       - image: /assets/img/img_5499.jpg
