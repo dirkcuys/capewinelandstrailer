@@ -12,9 +12,8 @@ header_carousel:
 sections:
   - title: Feature walls
     items:
-      - image: /assets/img/walls-1.jpg
+      - image: /assets/img/img_5450.jpg
         caption: |-
-          TEXTURED FEATURE WALLS:
           **Product**: Marmoran 
           **Applicators**: Ark Industries
       - image: /assets/img/walls-2.jpg
