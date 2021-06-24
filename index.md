@@ -10,13 +10,13 @@ header_carousel:
   - image: /assets/img/img_5390.jpg
   - image: /assets/img/img_5444.jpg
 sections:
-  - title: Feature walls
+  - title: Feature finishes
     items:
       - image: /assets/img/img_5450.jpg
         caption: |-
           **Custom Wallpaper Design & Installation**
           **Cara Saven Wall Design**
-      - image: /assets/img/walls-2.jpg
+      - image: /assets/img/img_5466.jpg
         caption: |
           TEXTURED FEATURE WALLS:
           Product: Marmoran 
@@ -26,30 +26,20 @@ sections:
           TEXTURED FEATURE WALLS:
           Product: Marmoran 
           Applicators: Ark Industries
-  - title: Painting
-    items:
-      - image: /assets/img/img_5468.jpg
-        caption: Some paint
-        link: https://google.com
+      - image: /assets/img/img_5485.jpg
+      - image: /assets/img/img_5402.jpg
+      - image: /assets/img/walls-2.jpg
+      - image: /assets/img/img_5450.jpg
   - title: Counter & cupboards
     items:
-      - image: /assets/img/img_5468.jpg
-        caption: Some paint
-        link: https://google.com
-      - image: /assets/img/img_5468.jpg
-        caption: Some paint
-        link: https://google.com
-      - image: /assets/img/img_5468.jpg
-        caption: Some paint
-        link: https://google.com
-      - image: /assets/img/img_5468.jpg
+      - image: /assets/img/img_5450.jpg
         caption: Some paint
         link: https://google.com
   - title: Lighting
     items:
       - image: /assets/img/lamp.jpg
       - image: /assets/img/img_5399.jpg
-  - title: Tiles
+      - image: /assets/img/img_5392.jpg
   - title: Fixtures
   - title: Decor
     items:
