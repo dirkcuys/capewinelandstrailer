@@ -13,7 +13,7 @@ header_carousel:
   - image: /assets/img/img_5390.jpg
   - image: /assets/img/img_5444.jpg
 sections:
-  - title: Feature finishes
+  - title: Finishes
     items:
       - image: /assets/img/img_5450_crop.jpg
         caption: |-
@@ -61,11 +61,19 @@ sections:
           **Painted Bedside tables: Dulux, AkzoNobel
           Painters: Atlantic Waterproofing & Painting**
         link: https://www.facebook.com/AtlanticPaintingandWaterproofing/
+      - image: /assets/img/img_5410_crop2.jpg
+        link: https://www.wolkberg.com
+        caption: "**Tiles on bedside pedestal: Wolkberg Casting Studio**"
+      - image: /assets/img/img_5468.jpg
+        caption: |-
+          **All Painted surfaces: Dulux, AkzoNobel
+          Painters: Atlantic Waterproofing & Painting**
+        link: https://www.dulux.co.za
   - title: Counter & cupboards
     items:
       - image: /assets/img/img_5450.jpg
-        caption: ""
-        link: https://google.com
+        caption: "**New cupboard doors & built-in wine rack by Simply do it**"
+        link: http://www.simplydoit.co.za
   - title: Lighting
     items:
       - image: /assets/img/img_5450_crop2.jpg
@@ -99,6 +107,9 @@ sections:
       - image: /assets/img/img_5482_crop.jpg
         caption: "**Towel rail by Knus**"
         link: https://www.knus.co
+      - image: /assets/img/img_5470_crop.jpg
+        caption: "**Rug by Knus**"
+        link: https://www.knus.co
       - image: /assets/img/img_5485_crop.jpg
         link: https://www.knus.co
         caption: "**Baskets by Knus**"
@@ -114,14 +125,27 @@ sections:
       - image: /assets/img/img_5499.jpg
         link: https://mammasplants.com
         caption: Centrepiece by Mamma's plants
+      - image: /assets/img/img_5470_crop.jpg
+        caption: "**Woven stool by Eight Degrees South**"
+        link: https://www.eightdegreessouth.com
   - title: Scatter cushions
     items:
       - image: /assets/img/img_5402.jpg
         caption: "**Threads that bind us**"
+        link: https://threadsthatbindus.co.za
       - image: /assets/img/img_5521.jpg
+        link: https://cottontree.co.za
+        caption: Cotton Tree
       - image: /assets/img/img_5465.jpg
       - image: /assets/img/img_5509.jpg
+        link: https://cottontree.co.za
+        caption: "**Cotton Tree**"
       - image: /assets/img/img_5459_crop.jpg
+        link: https://barrydaleweavers.co.za
+        caption: "**Barrydale Hand Weavers**"
+      - image: /assets/img/img_5450_crop4.jpg
+        caption: "**Cotton Tree**"
+        link: https://cottontree.co.za
   - title: Art
     items:
       - image: /assets/img/img_5501.jpg
@@ -131,7 +155,15 @@ sections:
   - title: Flowers and plants
     items:
       - image: /assets/img/img_5499.jpg
+        caption: "**Flower arrangement by Fleur with Grace**"
+        link: https://www.instagram.com/fleurwithgrace/?hl=en
       - image: /assets/img/img_5399.jpg
-      - image: /assets/img/img_5505.jpg
+        caption: "**Plant & pot by Fohla**"
+        link: https://folhashop.com
+      - image: /assets/img/img_5505_cropped.jpg
+        link: https://folhashop.com
+        caption: "**Plant & hanging pot by Fohla**"
       - image: /assets/img/img_5410_crop.jpg
+        caption: "**Plant & pot by Fohla**"
+        link: https://folhashop.com
 ---
