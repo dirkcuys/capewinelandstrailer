@@ -3,7 +3,10 @@ title: Cape winelands trailer
 layout: index
 header_carousel:
   - image: /assets/img/top-1.jpg
-    caption: Cape winelands trailer
+    caption: |-
+      Cape Winelands Trailer
+
+      Designed by Osmond Lange Architects and Interiors
   - image: /assets/img/img_5450.jpg
     caption: Some space
   - image: /assets/img/img_5466.jpg
@@ -45,7 +48,7 @@ sections:
   - title: Counter & cupboards
     items:
       - image: /assets/img/img_5450.jpg
-        caption: Some paint
+        caption: ""
         link: https://google.com
   - title: Lighting
     items:
@@ -55,6 +58,11 @@ sections:
   - title: Fixtures
   - title: Decor
     items:
+      - image: /assets/img/img_5402.jpg
+        caption: |-
+          **Headboard** 
+
+          **Coal Interiors**
       - image: /assets/img/img_5500_crop.jpg
       - image: /assets/img/img_5514.jpg
       - image: /assets/img/img_5494_crop.jpg
@@ -63,11 +71,15 @@ sections:
       - image: /assets/img/img_5482_crop.jpg
       - image: /assets/img/img_5485_crop.jpg
       - image: /assets/img/img_5463.jpg
+      - image: /assets/img/img_5459.jpg
   - title: Scatter cushions
     items:
-      - image: /assets/img/scatter.jpg
+      - image: /assets/img/img_5402.jpg
+        caption: "**Threads that bind us**"
       - image: /assets/img/img_5521.jpg
       - image: /assets/img/img_5468.jpg
+      - image: /assets/img/img_5509.jpg
+      - image: /assets/img/img_5459_crop.jpg
   - title: Art
     items:
       - image: /assets/img/img_5501.jpg
@@ -79,6 +91,5 @@ sections:
       - image: /assets/img/img_5499.jpg
       - image: /assets/img/img_5399.jpg
       - image: /assets/img/img_5505.jpg
-      - image: /assets/img/plant.jpg
       - image: /assets/img/img_5410_crop.jpg
 ---
