@@ -29,10 +29,12 @@ sections:
         caption: |-
           **White Washed Timber: Dulux, AkzoNobel
           Painters: Atlantic Waterproofing & Painting**
+        link: https://www.dulux.co.za
       - image: /assets/img/img_5485.jpg
         caption: |-
           **Wall Tiles Brand: Decobella 
           Supplier: Mazista**
+        link: https://www.decobella.co.za
       - image: /assets/img/img_5402.jpg
         caption: |-
           **Wall behind Bed Finish: Marmoran 
@@ -51,6 +53,14 @@ sections:
           **Wall behind WC Finish: Marmoran 
           Applicators: Ark Industries**
         link: https://www.ark-industries.co.za
+      - image: /assets/img/img_5485.jpg
+        caption: "**Floor & Wall Tiles supplied by Mazista**"
+        link: https://mazista.co.za
+      - image: /assets/img/img_5410_crop.jpg
+        caption: |-
+          **Painted Bedside tables: Dulux, AkzoNobel
+          Painters: Atlantic Waterproofing & Painting**
+        link: https://www.facebook.com/AtlanticPaintingandWaterproofing/
   - title: Counter & cupboards
     items:
       - image: /assets/img/img_5450.jpg
@@ -60,13 +70,14 @@ sections:
     items:
       - image: /assets/img/img_5450_crop2.jpg
         link: https://newport.co.za
-        caption: "**Lamp by Newport Lighting Concepts & Design**"
+        caption: "**Lamp on Counter by Newport Lighting Concepts & Design**"
       - image: /assets/img/img_5399.jpg
         link: https://lighting.co.za
         caption: "**Bedside wall lamps by Lighting.co.za**"
       - image: /assets/img/img_5392.jpg
         link: https://newport.co.za
-        caption: "**LED Striplights by Newport Lighting Concepts & Design**"
+        caption: "**LED Striplights & ceiling lights by Newport Lighting Concepts &
+          Design**"
   - title: Fixtures
   - title: Decor
     items:
@@ -74,9 +85,6 @@ sections:
         caption: "**Headboard by Coal Interiors**"
         link: https://coalinteriors.co.za
       - image: /assets/img/img_5500_crop.jpg
-        link: https://www.argilebylean.com
-        caption: "**Ceramic decor by Argilé**"
-      - image: /assets/img/img_5514.jpg
         link: https://www.argilebylean.com
         caption: "**Ceramic decor by Argilé**"
       - image: /assets/img/img_5494_crop.jpg
@@ -95,7 +103,17 @@ sections:
         link: https://www.knus.co
         caption: "**Baskets by Knus**"
       - image: /assets/img/img_5463.jpg
+        caption: "**Tea Towels by Threads that bind us**"
+        link: https://threadsthatbindus.co.za
       - image: /assets/img/img_5459.jpg
+        link: https://barrydaleweavers.co.za
+        caption: Throw by Barrydale Hand Weavers
+      - image: /assets/img/img_5514.jpg
+        link: https://www.argilebylean.com
+        caption: "**Ceramic decor by Argilé**"
+      - image: /assets/img/img_5499.jpg
+        link: https://mammasplants.com
+        caption: Centrepiece by Mamma's plants
   - title: Scatter cushions
     items:
       - image: /assets/img/img_5402.jpg
