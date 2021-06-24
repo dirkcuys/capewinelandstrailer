@@ -14,8 +14,8 @@ sections:
     items:
       - image: /assets/img/img_5450.jpg
         caption: |-
-          **Product**: Marmoran 
-          **Applicators**: Ark Industries
+          **Custom Wallpaper Design & Installation**
+          **Cara Saven Wall Design**
       - image: /assets/img/walls-2.jpg
         caption: |
           TEXTURED FEATURE WALLS:
@@ -49,7 +49,26 @@ sections:
   - title: Tiles
   - title: Fixtures
   - title: Decor
+    items:
+      - image: /assets/img/img_5500.jpg
+      - image: /assets/img/img_5514.jpg
+      - image: /assets/img/img_5530.jpg
+      - image: /assets/img/img_5487.jpg
+      - image: /assets/img/img_5494.jpg
+      - image: /assets/img/img_5482.jpg
   - title: Scatter cushions
+    items:
+      - image: /assets/img/img_5402.jpg
+      - image: /assets/img/img_5521.jpg
+      - image: /assets/img/img_5468.jpg
   - title: Art
+    items:
+      - image: /assets/img/img_5475.jpg
+      - image: /assets/img/img_5499.jpg
+      - image: /assets/img/img_5465.jpg
   - title: Flowers and plants
+    items:
+      - image: /assets/img/img_5499.jpg
+      - image: /assets/img/img_5399.jpg
+      - image: /assets/img/img_5505.jpg
 ---
