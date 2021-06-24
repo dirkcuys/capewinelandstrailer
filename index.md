@@ -24,6 +24,7 @@ sections:
         caption: |-
           **Green Wall Finish: Marmoran 
           Applicators: Ark Industries**
+        link: https://www.marmoran.co.za
       - image: /assets/img/img_5450_crop2.jpg
         caption: |-
           **White Washed Timber: Dulux, AkzoNobel
@@ -36,16 +37,20 @@ sections:
         caption: |-
           **Wall behind Bed Finish: Marmoran 
           Applicators: Ark Industries**
+        link: https://www.ark-industries.co.za
       - image: /assets/img/img_5490_crop.jpg
         caption: |-
           **Floor Tiles Brand: Douglas Jones Mosaics
           Supplier: Mazista**
+        link: https://www.douglasjones.co.za
       - image: /assets/img/img_5450_crop3.jpg
         caption: "**Wall Tiles: Wolkberg Casting Studio**"
+        link: https://www.wolkberg.com
       - image: /assets/img/img_5492.jpg
         caption: |-
           **Wall behind WC Finish: Marmoran 
           Applicators: Ark Industries**
+        link: https://www.ark-industries.co.za
   - title: Counter & cupboards
     items:
       - image: /assets/img/img_5450.jpg
@@ -53,21 +58,42 @@ sections:
         link: https://google.com
   - title: Lighting
     items:
-      - image: /assets/img/lamp.jpg
+      - image: /assets/img/img_5450_crop2.jpg
+        link: https://newport.co.za
+        caption: "**Lamp by Newport Lighting Concepts & Design**"
       - image: /assets/img/img_5399.jpg
+        link: https://lighting.co.za
+        caption: "**Bedside wall lamps by Lighting.co.za**"
       - image: /assets/img/img_5392.jpg
+        link: https://newport.co.za
+        caption: "**LED Striplights by Newport Lighting Concepts & Design**"
   - title: Fixtures
   - title: Decor
     items:
       - image: /assets/img/img_5402.jpg
         caption: "**Headboard by Coal Interiors**"
+        link: https://coalinteriors.co.za
       - image: /assets/img/img_5500_crop.jpg
+        link: https://www.argilebylean.com
+        caption: "**Ceramic decor by Argilé**"
       - image: /assets/img/img_5514.jpg
+        link: https://www.argilebylean.com
+        caption: "**Ceramic decor by Argilé**"
       - image: /assets/img/img_5494_crop.jpg
+        link: https://coalinteriors.co.za
+        caption: "**Wall Hook by Coal Interiors**"
       - image: /assets/img/img_5487_crop.jpg
+        link: https://www.eightdegreessouth.com
+        caption: "**Mirror by Eight Degrees South**"
       - image: /assets/img/img_5530.jpg
+        link: https://www.argilebylean.com
+        caption: "**Ceramic decor by Argilé**"
       - image: /assets/img/img_5482_crop.jpg
+        caption: "**Towel rail by Knus**"
+        link: https://www.knus.co
       - image: /assets/img/img_5485_crop.jpg
+        link: https://www.knus.co
+        caption: "**Baskets by Knus**"
       - image: /assets/img/img_5463.jpg
       - image: /assets/img/img_5459.jpg
   - title: Scatter cushions
