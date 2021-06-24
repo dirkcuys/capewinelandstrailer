@@ -8,7 +8,7 @@ header_carousel:
 
       Designed by Osmond Lange Architects and Interiors
   - image: /assets/img/img_5450.jpg
-    caption: Some space
+    caption: ""
   - image: /assets/img/img_5466.jpg
   - image: /assets/img/img_5390.jpg
   - image: /assets/img/img_5444.jpg
@@ -19,6 +19,7 @@ sections:
         caption: |-
           **Custom Wallpaper Design & Installation**
           **Cara Saven Wall Design**
+        link: https://www.carasaven.com
       - image: /assets/img/img_5466.jpg
         caption: |-
           **Green Wall Finish: Marmoran 
@@ -26,7 +27,7 @@ sections:
       - image: /assets/img/img_5450_crop2.jpg
         caption: |-
           **White Washed Timber: Dulux, AkzoNobel
-          Painters: Antlantic Waterproofing & Painting**
+          Painters: Atlantic Waterproofing & Painting**
       - image: /assets/img/img_5485.jpg
         caption: |-
           **Wall Tiles Brand: Decobella 
@@ -59,10 +60,7 @@ sections:
   - title: Decor
     items:
       - image: /assets/img/img_5402.jpg
-        caption: |-
-          **Headboard** 
-
-          **Coal Interiors**
+        caption: "**Headboard by Coal Interiors**"
       - image: /assets/img/img_5500_crop.jpg
       - image: /assets/img/img_5514.jpg
       - image: /assets/img/img_5494_crop.jpg
@@ -77,7 +75,7 @@ sections:
       - image: /assets/img/img_5402.jpg
         caption: "**Threads that bind us**"
       - image: /assets/img/img_5521.jpg
-      - image: /assets/img/img_5468.jpg
+      - image: /assets/img/img_5465.jpg
       - image: /assets/img/img_5509.jpg
       - image: /assets/img/img_5459_crop.jpg
   - title: Art
