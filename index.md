@@ -12,24 +12,29 @@ header_carousel:
 sections:
   - title: Feature finishes
     items:
-      - image: /assets/img/img_5450.jpg
+      - image: /assets/img/img_5450_crop.jpg
         caption: |-
           **Custom Wallpaper Design & Installation**
           **Cara Saven Wall Design**
       - image: /assets/img/img_5466.jpg
-        caption: |
-          TEXTURED FEATURE WALLS:
-          Product: Marmoran 
-          Applicators: Ark Industries
-      - image: /assets/img/walls-2.jpg
-        caption: |
-          TEXTURED FEATURE WALLS:
-          Product: Marmoran 
-          Applicators: Ark Industries
+        caption: |-
+          **Green Wall Finish: Marmoran 
+          Applicators: Ark Industries**
+      - image: /assets/img/img_5450_crop2.jpg
+        caption: ""
       - image: /assets/img/img_5485.jpg
+        caption: |-
+          **Wall Tiles Brand: Decobella 
+          Supplier: Mazista**
       - image: /assets/img/img_5402.jpg
+        caption: |-
+          **Wall behind Bed Finish: Marmoran 
+          Applicators: Ark Industries**
       - image: /assets/img/walls-2.jpg
-      - image: /assets/img/img_5450.jpg
+        caption: |-
+          **Wall behind WC Finish: Marmoran 
+          Applicators: Ark Industries**
+      - image: /assets/img/img_5450_crop2.jpg
   - title: Counter & cupboards
     items:
       - image: /assets/img/img_5450.jpg
@@ -43,12 +48,12 @@ sections:
   - title: Fixtures
   - title: Decor
     items:
-      - image: /assets/img/img_5500.jpg
+      - image: /assets/img/img_5500_crop.jpg
       - image: /assets/img/img_5514.jpg
+      - image: /assets/img/img_5494_crop.jpg
+      - image: /assets/img/img_5487_crop.jpg
       - image: /assets/img/img_5530.jpg
-      - image: /assets/img/img_5487.jpg
-      - image: /assets/img/img_5494.jpg
-      - image: /assets/img/img_5482.jpg
+      - image: /assets/img/img_5482_crop.jpg
   - title: Scatter cushions
     items:
       - image: /assets/img/scatter.jpg
@@ -56,8 +61,8 @@ sections:
       - image: /assets/img/img_5468.jpg
   - title: Art
     items:
-      - image: /assets/img/img_5475.jpg
-      - image: /assets/img/art2.jpg
+      - image: /assets/img/img_5501.jpg
+      - image: /assets/img/img_5499_crop.jpg
       - image: /assets/img/art.jpg
   - title: Flowers and plants
     items:
