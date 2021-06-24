@@ -58,14 +58,14 @@ sections:
       - image: /assets/img/img_5482.jpg
   - title: Scatter cushions
     items:
-      - image: /assets/img/img_5402.jpg
+      - image: /assets/img/scatter.jpg
       - image: /assets/img/img_5521.jpg
       - image: /assets/img/img_5468.jpg
   - title: Art
     items:
       - image: /assets/img/img_5475.jpg
-      - image: /assets/img/img_5499.jpg
-      - image: /assets/img/img_5465.jpg
+      - image: /assets/img/art2.jpg
+      - image: /assets/img/art.jpg
   - title: Flowers and plants
     items:
       - image: /assets/img/img_5499.jpg
