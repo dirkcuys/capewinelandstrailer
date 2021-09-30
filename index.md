@@ -22,7 +22,7 @@ sections:
         link: https://www.carasaven.com
       - image: /assets/img/img_5466.jpg
         caption: |-
-          **Green Wall Finish: Marmoran 
+          **Textured Wall Finishes: Marmoran 
           Applicators: Ark Industries**
         link: https://www.marmoran.co.za
       - image: /assets/img/img_5450_crop2.jpg
@@ -35,35 +35,12 @@ sections:
           **Wall Tiles Brand: Decobella 
           Supplier: Mazista**
         link: https://www.decobella.co.za
-      - image: /assets/img/img_5402.jpg
-        caption: |-
-          **Wall behind Bed Finish: Marmoran 
-          Applicators: Ark Industries**
-        link: https://www.ark-industries.co.za
-      - image: /assets/img/img_5490_crop.jpg
-        caption: |-
-          **Floor Tiles Brand: Douglas Jones Mosaics
-          Supplier: Mazista**
-        link: https://www.douglasjones.co.za
       - image: /assets/img/img_5450_crop3.jpg
-        caption: "**Wall Tiles: Wolkberg Casting Studio**"
+        caption: "**Wall & bedside pedestal Tiles: Wolkberg Casting Studio**"
         link: https://www.wolkberg.com
-      - image: /assets/img/img_5492.jpg
-        caption: |-
-          **Wall behind WC Finish: Marmoran 
-          Applicators: Ark Industries**
-        link: https://www.ark-industries.co.za
       - image: /assets/img/img_5485.jpg
         caption: "**Floor & Wall Tiles supplied by Mazista**"
         link: https://mazista.co.za
-      - image: /assets/img/img_5410_crop.jpg
-        caption: |-
-          **Painted Bedside tables: Dulux, AkzoNobel
-          Painters: Atlantic Waterproofing & Painting**
-        link: https://www.facebook.com/AtlanticPaintingandWaterproofing/
-      - image: /assets/img/img_5410_crop2.jpg
-        link: https://www.wolkberg.com
-        caption: "**Tiles on bedside pedestal: Wolkberg Casting Studio**"
       - image: /assets/img/img_5468.jpg
         caption: |-
           **All Painted surfaces: Dulux, AkzoNobel
@@ -86,62 +63,37 @@ sections:
         link: https://newport.co.za
         caption: "**LED Striplights & ceiling lights by Newport Lighting Concepts &
           Design**"
-  - title: Fixtures
   - title: Decor
     items:
       - image: /assets/img/img_5402.jpg
-        caption: "**Headboard by Coal Interiors**"
+        caption: "**Headboard  & wall hooks by Coal Interiors**"
         link: https://coalinteriors.co.za
       - image: /assets/img/img_5500_crop.jpg
         link: https://www.argilebylean.com
         caption: "**Ceramic decor by Argilé**"
-      - image: /assets/img/img_5494_crop.jpg
-        link: https://coalinteriors.co.za
-        caption: "**Wall Hook by Coal Interiors**"
       - image: /assets/img/img_5487_crop.jpg
         link: https://www.eightdegreessouth.com
-        caption: "**Mirror by Eight Degrees South**"
+        caption: "**Mirror & woven footstool by Eight Degrees South**"
       - image: /assets/img/img_5470_crop.jpg
-        caption: "**Rug by Knus**"
+        caption: "**Rug, baskets, towel rail and mat by Knus**"
         link: https://www.knus.co
-      - image: /assets/img/img_5485_crop.jpg
-        link: https://www.knus.co
-        caption: "**Baskets and mat by Knus**"
       - image: /assets/img/img_5463.jpg
-        caption: "**Tea Towels by Threads that bind us**"
+        caption: "**Tea Towels  & cushion covers by Threads that bind us**"
         link: https://threadsthatbindus.co.za
-      - image: /assets/img/img_5482_crop.jpg
-        caption: "**Towel rail by Knus**"
-        link: https://www.knus.co
-      - image: /assets/img/img_5530.jpg
-        link: https://www.argilebylean.com
-        caption: "**Ceramic decor by Argilé**"
       - image: /assets/img/img_5459.jpg
         link: https://barrydaleweavers.co.za
-        caption: Throw & rug by Barrydale Hand Weavers
-      - image: /assets/img/img_5514.jpg
-        link: https://www.argilebylean.com
-        caption: "**Ceramic decor by Argilé**"
+        caption: Throw, rug & scatter cushions by Barrydale Hand Weavers
       - image: /assets/img/img_5499.jpg
         link: https://mammasplants.com
         caption: Centrepiece by Mamma's plants
-      - image: /assets/img/img_5470_crop.jpg
-        caption: "**Woven stool by Eight Degrees South**"
-        link: https://www.eightdegreessouth.com
       - image: /assets/img/img_5392_crop.jpg
         caption: "**Baskets by Eight Degrees South**"
         link: https://www.eightdegreessouth.com
   - title: Scatter cushions
     items:
-      - image: /assets/img/img_5402.jpg
-        caption: "**Threads that bind us**"
-        link: https://threadsthatbindus.co.za
       - image: /assets/img/img_5465.jpg
         link: https://www.kreatifhaus.co.za
         caption: "**Kreatif Haus**"
-      - image: /assets/img/img_5459_crop.jpg
-        link: https://barrydaleweavers.co.za
-        caption: "**Barrydale Hand Weavers**"
       - image: /assets/img/img_5450_crop4.jpg
         caption: "**Cotton Tree**"
         link: https://cottontree.co.za
@@ -152,25 +104,16 @@ sections:
         caption: "**Custom grape leaves artwork by Skaam**"
       - image: /assets/img/img_5499_crop.jpg
         link: https://elsje.co.za
-        caption: "**Abstract Art Print by Elsje**"
+        caption: "**Abstract Art Prints by Elsje**"
       - image: /assets/img/art.jpg
         link: https://www.blankinkdesign.com
         caption: "**Architectural hand sketches by Blank Ink Design**"
-      - image: /assets/img/img_5410_crop2.jpg
-        caption: "**Abstract Art Print by Elsje**"
-        link: https://elsje.co.za/product-category/art-prints/abstract-art/
   - title: Flowers and plants
     items:
       - image: /assets/img/img_5499.jpg
         caption: "**Flower arrangement by Fleur with Grace**"
         link: https://www.instagram.com/fleurwithgrace/?hl=en
-      - image: /assets/img/img_5399.jpg
-        caption: "**Plant & pot by Fohla**"
-        link: https://folhashop.com
       - image: /assets/img/img_5505_cropped.jpg
         link: https://folhashop.com
-        caption: "**Plant & hanging pot by Fohla**"
-      - image: /assets/img/img_5410_crop.jpg
-        caption: "**Plant & pot by Fohla**"
-        link: https://folhashop.com
+        caption: "**Plants & pots by Fohla**"
 ---
