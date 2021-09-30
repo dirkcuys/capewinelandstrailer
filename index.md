@@ -13,49 +13,6 @@ header_carousel:
   - image: /assets/img/img_5390.jpg
   - image: /assets/img/img_5444.jpg
 sections:
-  - title: Finishes
-    items:
-      - image: /assets/img/img_5450_crop.jpg
-        caption: |-
-          **Custom Wallpaper Design & Installation**
-          **Cara Saven Wall Design**
-        link: https://www.carasaven.com
-      - image: /assets/img/img_5466.jpg
-        caption: |-
-          **Textured Wall Finishes: Marmoran 
-          Applicators: Ark Industries**
-        link: https://www.marmoran.co.za
-      - image: /assets/img/img_5450_crop2.jpg
-        caption: |-
-          **White Washed Timber & all painted surfaces: Dulux, AkzoNobel
-          Painters: Atlantic Waterproofing & Painting**
-        link: https://www.dulux.co.za
-      - image: /assets/img/img_5485.jpg
-        caption: |-
-          **Wall Tiles Brand: Decobella** 
-
-          **Floor Tiles Brand: Douglas Jones
-          Supplier: Mazista**
-        link: https://mazista.co.za
-      - image: /assets/img/img_5450_crop3.jpg
-        caption: "**Wall & bedside pedestal Tiles: Wolkberg Casting Studio**"
-        link: https://www.wolkberg.com
-  - title: Counter & cupboards
-    items:
-      - image: /assets/img/img_5450.jpg
-        caption: "**Cupboard doors & wine rack by Simply do it**"
-        link: http://www.simplydoit.co.za
-  - title: Lighting
-    items:
-      - image: /assets/img/img_5450_crop2.jpg
-        link: https://newport.co.za
-        caption: |-
-          **Lamp on Counter,LED Striplights & ceiling lights**
-
-          **by Newport Lighting Concepts & Design**
-      - image: /assets/img/img_5399.jpg
-        link: https://lighting.co.za
-        caption: "**Bedside wall lamps by Lighting.co.za**"
   - title: Decor
     items:
       - image: /assets/img/img_5402.jpg
@@ -106,4 +63,47 @@ sections:
       - image: /assets/img/img_5505_cropped.jpg
         link: https://folhashop.com
         caption: "**Plants & pots by Fohla**"
+  - title: Lighting
+    items:
+      - image: /assets/img/img_5450_crop2.jpg
+        link: https://newport.co.za
+        caption: |-
+          **Lamp on Counter,LED Striplights & ceiling lights**
+
+          **by Newport Lighting Concepts & Design**
+      - image: /assets/img/img_5399.jpg
+        link: https://lighting.co.za
+        caption: "**Bedside wall lamps by Lighting.co.za**"
+  - title: Counter & cupboards
+    items:
+      - image: /assets/img/img_5450.jpg
+        caption: "**Cupboard doors & wine rack by Simply do it**"
+        link: http://www.simplydoit.co.za
+  - title: Finishes
+    items:
+      - image: /assets/img/img_5450_crop.jpg
+        caption: |-
+          **Custom Wallpaper Design & Installation**
+          **Cara Saven Wall Design**
+        link: https://www.carasaven.com
+      - image: /assets/img/img_5466.jpg
+        caption: |-
+          **Textured Wall Finishes: Marmoran 
+          Applicators: Ark Industries**
+        link: https://www.marmoran.co.za
+      - image: /assets/img/img_5450_crop2.jpg
+        caption: |-
+          **White Washed Timber & all painted surfaces: Dulux, AkzoNobel
+          Painters: Atlantic Waterproofing & Painting**
+        link: https://www.dulux.co.za
+      - image: /assets/img/img_5485.jpg
+        caption: |-
+          **Wall Tiles Brand: Decobella** 
+
+          **Floor Tiles Brand: Douglas Jones
+          Supplier: Mazista**
+        link: https://mazista.co.za
+      - image: /assets/img/img_5450_crop3.jpg
+        caption: "**Wall & bedside pedestal Tiles: Wolkberg Casting Studio**"
+        link: https://www.wolkberg.com
 ---
