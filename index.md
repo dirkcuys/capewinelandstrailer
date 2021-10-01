@@ -78,7 +78,7 @@ sections:
       - image: /assets/img/img_5450_crop2.jpg
         link: https://newport.co.za
         caption: |-
-          **Lamp on Counter,LED Striplights & ceiling lights**
+          **Lamp on Counter, LED Striplights & ceiling lights**
 
           **by Newport Lighting Concepts & Design**
       - image: /assets/img/img_5399.jpg
@@ -89,6 +89,12 @@ sections:
       - image: /assets/img/img_5450.jpg
         caption: "**Cupboard doors & wine rack by Simply do it**"
         link: http://www.simplydoit.co.za
+      - image: /assets/img/img_5450_crop2.jpg
+        caption: |-
+          **Countertop by Caesarstone** 
+
+          **Installed by Continua**
+        link: https://continua.co.za
   - title: Blinds
     items:
       - image: /assets/img/img_5410_crop2.jpg
@@ -99,7 +105,7 @@ sections:
       - image: /assets/img/img_5450_crop.jpg
         caption: |-
           **Custom Wallpaper Design & Installation**
-          **Cara Saven Wall Design**
+          **by Cara Saven Wall Design**
         link: https://www.carasaven.com
       - image: /assets/img/img_5466.jpg
         caption: |-
