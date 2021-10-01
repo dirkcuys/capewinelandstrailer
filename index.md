@@ -17,16 +17,16 @@ sections:
         caption: |-
           **Interior Design by Osmond Lange Architects & Interiors**
 
-          **Contact us: info@o-l.co.za              +27 21 948 1877**
+          **Contact us: info@o-l.co.za**              
 
-          **Thank you to all our sponsors!**
+          **+27 21 948 1877**
       - image: /assets/img/img_5392_crop.jpg
         caption: "**Photos by Megan Gant**"
         link: https://megantimages.com
   - title: Decor
     items:
       - image: /assets/img/img_5402.jpg
-        caption: "**Headboard  & wall hooks by Coal Interiors**"
+        caption: "**Headboard, wallpegs & frames by Coal Interiors**"
         link: https://coalinteriors.co.za
       - image: /assets/img/img_5500_crop.jpg
         link: https://www.argilebylean.com
@@ -42,7 +42,7 @@ sections:
         link: https://threadsthatbindus.co.za
       - image: /assets/img/img_5459.jpg
         link: https://barrydaleweavers.co.za
-        caption: "**Throw, rug & scatter cushions by Barrydale Hand Weavers**"
+        caption: "**Throw, rug & scatter cushion covers by Barrydale Hand Weavers**"
       - image: /assets/img/img_5499.jpg
         link: https://mammasplants.com
         caption: "**Centrepiece by Mamma's plants**"
@@ -116,4 +116,9 @@ sections:
       - image: /assets/img/img_5450_crop3.jpg
         caption: "**Wall & bedside pedestal Tiles: Wolkberg Casting Studio**"
         link: https://www.wolkberg.com
+  - title: Blinds
+    items:
+      - image: /assets/img/img_5410_crop2.jpg
+        caption: "**Blinds by Urban Blinds & Shutters**"
+        link: https://www.facebook.com/urbanblindsandshutters/
 ---
