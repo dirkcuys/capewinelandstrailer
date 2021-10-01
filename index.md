@@ -89,6 +89,11 @@ sections:
       - image: /assets/img/img_5450.jpg
         caption: "**Cupboard doors & wine rack by Simply do it**"
         link: http://www.simplydoit.co.za
+  - title: Blinds
+    items:
+      - image: /assets/img/img_5410_crop2.jpg
+        caption: "**Blinds by Urban Blinds & Shutters**"
+        link: https://www.facebook.com/urbanblindsandshutters/
   - title: Finishes
     items:
       - image: /assets/img/img_5450_crop.jpg
@@ -116,9 +121,9 @@ sections:
       - image: /assets/img/img_5450_crop3.jpg
         caption: "**Wall & bedside pedestal Tiles: Wolkberg Casting Studio**"
         link: https://www.wolkberg.com
-  - title: Blinds
+  - title: Sanware
     items:
-      - image: /assets/img/img_5410_crop2.jpg
-        caption: "**Blinds by Urban Blinds & Shutters**"
-        link: https://www.facebook.com/urbanblindsandshutters/
+      - image: /assets/img/img_5492.jpg
+        caption: "**Sanware by Italtile**"
+        link: https://www.italtile.co.za
 ---
