@@ -3,26 +3,26 @@ title: Cape winelands trailer
 layout: index
 header_carousel:
   - image: /assets/img/top-1.jpg
-    caption: |-
-      **Cape Winelands Trailer**
-
-      **Designed by Osmond Lange Architects and Interiors**
+    caption: ""
   - image: /assets/img/img_5450.jpg
     caption: ""
   - image: /assets/img/img_5466.jpg
   - image: /assets/img/img_5390.jpg
   - image: /assets/img/img_5444.jpg
 sections:
-  - title: Design
+  - title: Design & Photography
     items:
       - image: /assets/img/img_5417.jpg
         link: https://www.osmondlange.co.za
         caption: |-
           **Interior Design by Osmond Lange Architects & Interiors**
 
-          **Contact us: info@o-l.co.za +27 21 948 3455**
+          **Contact us: info@o-l.co.za              +27 21 948 1877**
 
           **Thank you to all our sponsors!**
+      - image: /assets/img/img_5392_crop.jpg
+        caption: "**Photos by Megan Gant**"
+        link: https://megantimages.com
   - title: Decor
     items:
       - image: /assets/img/img_5402.jpg
